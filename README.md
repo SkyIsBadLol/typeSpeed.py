@@ -1,4 +1,6 @@
 # typeSpeed.py
 simple (bad) program,
 basically a speed type program,
-download files and run: python3 ttt.py
+download files and execute this command in your terminal: 
+python3 ttt.py
+
