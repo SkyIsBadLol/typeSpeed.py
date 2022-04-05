@@ -6,7 +6,7 @@ entry_fg = '#000000'
 entry_bg = '#7fe7dc'
 
 label_configs = {
-    "height": "8",
+    "height": "9",
     "font": "Sans 16",
     "bg": label_bg,
     "fg": label_fg,
@@ -15,14 +15,14 @@ label_configs = {
 
 entry_configs = {
     "font": "Sans",
-    "borderwidth": "3",
-    "width": "50",
+    "borderwidth": "4",
+    "width": "60",
     "bg": entry_bg,
     "fg": entry_fg
 }
 
 timer_label_configs = {
-    "font": "Sans 14",
+    "font": "Sans 13",
     "bg": label_bg,
     "fg": label_fg
 }
